@@ -1,0 +1,2 @@
+rootProject.name='wearableTechBLE'
+include ':app'
